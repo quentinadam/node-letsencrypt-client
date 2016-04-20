@@ -1,6 +1,6 @@
 {
     "name": "letsencrypt-client",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Let's Encrypt ACME client",
     "keywords": ["letsencrypt", "lets", "encrypt", "acme"],
     "author": "Quentin Adam <quentinadam@gmail.com>",
