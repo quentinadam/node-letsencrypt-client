@@ -1,0 +1,14 @@
+{
+    "name": "letsencrypt-client",
+    "version": "1.0.0",
+    "description": "Let's Encrypt ACME client",
+    "keywords": ["letsencrypt", "lets", "encrypt", "acme"],
+    "author": "Quentin Adam <quentinadam@gmail.com>",
+    "license": "MIT",
+    "repository": "git:quentinadam/node-letsencrypt-client",
+    "main": "index.js",
+    "dependencies": {
+        "request": "^2.72.0"
+    },
+    "engines": {"node": ">=4.0"}
+}
